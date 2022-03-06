@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NooThisIsPatrick
+- 👋 Hi, I’m @Gregory-StClair
 - 👀 I’m interested in automation and game development
 - 🌱 I’m currently learning lua and bash, in roblox and centos on Linode
 
